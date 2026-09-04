@@ -143,20 +143,6 @@ The visualizations make it easier to compare teams and players and understand th
 
 ---
 
-## 📁 Project Structure
-
-```text
-Volleyball-EDA/
-│
-├── VNL2023.csv
-├── Volleyball_EDA.ipynb
-├── README.md
-└── images/
-    └── visualizations/
-```
-
----
-
 ## 🚀 How to Run the Project
 
 ### 1. Clone the repository
